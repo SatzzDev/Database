@@ -1,0 +1,21 @@
+{
+  status:200,
+  creator: 'SatzzDev.',
+  result:[
+  { date: '1 Januari', description: 'Tahun Baru Masehi 2023' },
+  { date: '22 Januari', description: 'Tahun Baru Imlek' },
+  { date: '18 Februari', description: 'Isra Mikraj Nabi Muhammad SAW' },
+  { date: '22 Maret', description: 'Hari Suci Nyepi' },
+  { date: '7 April', description: 'Wafat Isa Almasih' },
+  { date: '22', description: '23 April - Hari Raya Idul Fitri' },
+  { date: '1 Mei', description: 'Hari Buruh Internasional' },
+  { date: '18 Mei', description: 'Kenaikan Isa Almasih' },
+  { date: '1 Juni', description: 'Hari Kesaktian Pancasila' },
+  { date: '4 Juni', description: 'Hari Waisak' },
+  { date: '29 Juni', description: 'Idul Adha' },
+  { date: '19 Juli', description: 'Tahun Baru Islam' },
+  { date: '17 Agustus', description: 'Hari Kemerdekaan Indonesia' },
+  { date: '28 September', description: 'Maulid Nabi Muhammad SAW' },
+  { date: '25 Desember', description: 'Hari Natal' }
+  ]
+}
