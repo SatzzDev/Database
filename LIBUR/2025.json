@@ -1,0 +1,21 @@
+{
+  status:200,
+  creator: 'SatzzDev.',
+  result:[
+  { date: '1 Januari', description: 'Tahun Baru Masehi 2025' },
+  { date: '27 Januari', description: 'Isra Mikraj Nabi Muhammad SAW' },
+  { date: '29 Januari', description: 'Tahun Baru Imlek' },
+  { date: '29 Maret', description: 'Hari Raya Nyepi' },
+  { date: '31 Maret', description: '1 April - Hari Raya Idul Fitri' },
+  { date: '18 April', description: 'Wafatnya Isa Almasih' },
+  { date: '1 Mei', description: 'Hari Buruh Internasional' },
+  { date: '12 Mei Hari Waisak', description: '' },
+  { date: '29 Mei', description: 'Kenaikan Isa Almasih' },
+  { date: '1 Juni', description: 'Hari Lahir Pancasila' },
+  { date: '7 Juni', description: 'Idul Adha' },
+  { date: '27 Juni', description: 'Tahun Baru Islam' },
+  { date: '17 Agustus', description: 'Hari Kemerdekaan Indonesia' },
+  { date: '5 September', description: 'Maulid Nabi Muhammad SAW' },
+  { date: '25 Desember', description: 'Hari Natal' }
+  ]
+}
