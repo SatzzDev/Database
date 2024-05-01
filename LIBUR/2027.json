@@ -1,0 +1,22 @@
+{
+  status:200,
+  creator: 'SatzzDev.',
+  result:[
+  { date: '1 Januari', description: 'Tahun Baru Masehi 2027' },
+  { date: '5 Januari', description: "Isra Mi'raj" },
+  { date: '6 Februari', description: 'Tahun Baru Imlek' },
+  { date: '8 Maret', description: 'Hari Suci Nyepi' },
+  { date: '10', description: '11 Maret - Hari Raya Idul Fitri' },
+  { date: '26 Maret', description: 'Wafat Yesus Kristus' },
+  { date: '1 Mei', description: 'Hari Buruh Internasional' },
+  { date: '6 Mei', description: 'Kenaikan Isa Almasih' },
+  { date: '17 Mei', description: 'Idul Adha' },
+  { date: '20 Mei', description: 'Hari Raya Waisak' },
+  { date: '1 Juni', description: 'Hari Lahir Pancasila' },
+  { date: '6 Juni', description: 'Tahun Baru Islam' },
+  { date: '15 Agustus', description: 'Maulid Nabi Muhammad SAW' },
+  { date: '17 Agustus', description: 'Hari Kemerdekaan Indonesia' },
+  { date: '25 Desember', description: 'Isra Mikraj Nabi Muhammad SAW' },
+  { date: '25 Desember', description: 'Hari Raya Natal' }
+  ]
+}
