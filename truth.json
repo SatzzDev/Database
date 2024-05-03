@@ -1,0 +1,867 @@
+[
+  {
+    "creator": "SatzzDev.",
+    "id": 1,
+    "question": "Apa rahasia terbesar yang pernah kamu simpan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 2,
+    "question": "Siapa orang yang kamu sukai saat ini?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 3,
+    "question": "Apa hal paling aneh yang pernah kamu lakukan secara diam-diam?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 4,
+    "question": "Apa hal paling memalukan yang pernah kamu alami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 5,
+    "question": "Apa satu hal di masa lalu yang ingin kamu ubah jika bisa?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 6,
+    "question": "Pernahkah kamu curang dalam suatu situasi? Ceritakan."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 7,
+    "question": "Apa satu hal di dalam daftar kerja sama impianmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 8,
+    "question": "Apa hobi rahasia yang tidak banyak orang tahu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 9,
+    "question": "Apa mimpi teraneh yang pernah kamu alami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 10,
+    "question": "Jelaskan pengalaman pertamamu dalam hal asmara."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 11,
+    "question": "Apa satu hal di dirimu yang ingin kamu tingkatkan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 12,
+    "question": "Pernahkah kamu dite caught camera melakukan sesuatu yang lucu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 13,
+    "question": "Apa sesuatu yang paling kamu takuti?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 14,
+    "question": "Ceritakan tentang momen paling konyol dalam hidupmu."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 15,
+    "question": "Apa peristiwa yang membuatmu menangis secara diam-diam?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 16,
+    "question": "Apa satu hal yang ingin kamu capai dalam hidup dalam 5 tahun ke depan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 17,
+    "question": "Pernahkah kamu terlibat dalam suatu aksi kriminal kecil? Ceritakan."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 18,
+    "question": "Jika kamu bisa bertukar tempat dengan seseorang selama sehari, siapa yang akan kamu pilih dan mengapa?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 19,
+    "question": "Apa hal paling menyenangkan yang pernah kamu lakukan tanpa mengeluarkan uang?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 20,
+    "question": "Jika kamu hanya boleh memilih satu makanan untuk dimakan selama sisa hidupmu, apa yang akan kamu pilih?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 21,
+    "question": "Ceritakan tentang pengalaman paling menegangkan yang pernah kamu alami."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 22,
+    "question": "Pernahkah kamu menolak seseorang yang menyatakan perasaan pada kamu? Bagaimana kamu merasa?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 23,
+    "question": "Apa satu hal yang ingin kamu pelajari atau kuasai di masa depan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 24,
+    "question": "Jika kamu bisa mengubah satu keputusan di masa lalu, apa yang akan kamu ubah?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 25,
+    "question": "Pernahkah kamu memberikan hadiah yang kamu anggap istimewa pada seseorang, namun mereka tidak menghargainya?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 26,
+    "question": "Pernahkah kamu memalsukan sakit hanya untuk menghindari sesuatu? Ceritakan."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 27,
+    "question": "Apa satu hal yang ingin kamu ceritakan kepada temanmu, tapi belum pernah kamu katakan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 28,
+    "question": "Jika kamu memiliki kesempatan untuk bertemu dengan tokoh terkenal, siapa yang ingin kamu temui dan mengapa?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 29,
+    "question": "Ceritakan tentang momen paling lucu yang pernah kamu alami."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 30,
+    "question": "Jika kamu bisa memiliki keahlian super, apa yang ingin kamu miliki?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 31,
+    "question": "Pernahkah kamu memberi saran palsu kepada seseorang? Mengapa?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 32,
+    "question": "Jika kamu bisa tinggal di tempat apa pun di dunia selama sebulan, di mana kamu akan pergi?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 33,
+    "question": "Apa satu hal di dalam hidupmu yang kamu sesali?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 34,
+    "question": "Ceritakan tentang pertemanan atau hubungan yang paling berarti bagi kamu."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 35,
+    "question": "Pernahkah kamu terlibat dalam kejadian yang membuatmu sangat ketakutan? Ceritakan."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 36,
+    "question": "Apa satu hal aneh yang kamu yakini saat kecil, tetapi sekarang kamu tahu itu salah?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 37,
+    "question": "Pernahkah kamu jatuh cinta pada teman dekatmu? Ceritakan."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 38,
+    "question": "Jika kamu bisa menghabiskan sehari dengan siapa pun di dunia, siapa yang akan kamu pilih?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 39,
+    "question": "Apa satu hal yang ingin kamu lakukan tapi selalu takut untuk mencobanya?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 40,
+    "question": "Ceritakan tentang pengalaman terburuk yang pernah kamu alami dalam suatu perjalanan."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 41,
+    "question": "Jika kamu memiliki kekuatan super untuk satu hari, apa yang akan kamu lakukan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 42,
+    "question": "Pernahkah kamu merahasiakan sesuatu dari orang tua kamu? Apa itu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 43,
+    "question": "Jika kamu harus memilih satu teman untuk bertahan bersamamu di pulau terpencil, siapa yang akan kamu pilih?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 44,
+    "question": "Apa satu hal yang ingin kamu pelajari lebih dalam?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 45,
+    "question": "Ceritakan tentang mimpi paling aneh yang pernah kamu alami."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 46,
+    "question": "Pernahkah kamu mendapatkan hukuman di sekolah? Apa yang kamu lakukan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 47,
+    "question": "Jika kamu bisa bertukar tempat dengan seseorang selama satu hari, siapa yang akan kamu pilih?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 48,
+    "question": "Apa hal paling gila yang pernah kamu lakukan demi perhatian seseorang?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 49,
+    "question": "Jika kamu memiliki waktu dan uang tak terbatas, apa yang akan kamu pelajari atau ikuti?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 50,
+    "question": "Ceritakan tentang suatu mimpi atau ambisi yang ingin kamu capai dalam hidup."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 51,
+    "question": "Pernahkah kamu memiliki pengalaman hampir mati atau sangat berbahaya? Ceritakan."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 52,
+    "question": "Jika kamu bisa bertemu dengan siapa pun, baik yang masih hidup atau sudah meninggal, siapa yang akan kamu pilih?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 53,
+    "question": "Apa satu hal yang ingin kamu lakukan tetapi belum pernah kamu coba karena terlalu takut?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 54,
+    "question": "Ceritakan tentang momen paling menyenangkan yang pernah kamu alami dengan teman-temanmu."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 55,
+    "question": "Jika kamu bisa memilih satu kemampuan supernatural, apakah itu akan menjadi kekuatan super atau kemampuan sihir? Mengapa?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 56,
+    "question": "Pernahkah kamu mendapatkan hadiah yang paling tidak kamu sukai? Apa itu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 57,
+    "question": "Jika kamu harus memilih satu makanan untuk dimakan setiap hari, apa yang akan kamu pilih?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 58,
+    "question": "Ceritakan tentang satu kesalahan besar yang pernah kamu lakukan dan bagaimana kamu belajar dari itu."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 59,
+    "question": "Jika kamu bisa mengubah satu hal dalam dunia ini, apa yang akan kamu ubah?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 60,
+    "question": "Apa hal paling aneh yang pernah kamu lihat di internet?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 61,
+    "question": "Acara TV apa yang paling kamu benci? Beri tahu alasannya!"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 62,
+    "question": "Kapan terakhir kali kamu berbohong?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 63,
+    "question": "Kapan terakhir kali kamu menangis?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 64,
+    "question": "Kapan terakhir kali kamu kentut?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 65,
+    "question": "Apa ketakutan terbesarmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 66,
+    "question": "Apa fantasi terbesar atau terhanehmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 67,
+    "question": "Apa hal yang membuatmu senang orang tuamu tidak mengetahuinya?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 68,
+    "question": "Pernahkah kamu selingkuh?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 69,
+    "question": "Apa hal terburuk yang pernah kamu lakukan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 70,
+    "question": "Apa rahasia yang tidak pernah kamu ceritakan kepada siapa pun?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 71,
+    "question": "Apakah kamu punya bakat terpendam?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 72,
+    "question": "Siapa selebriti yang pertama kali bikin kamu naksir?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 73,
+    "question": "Apa pendapatmu tentang perselingkuhan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 74,
+    "question": "Apa pengalaman intim terburuk yang pernah kamu alami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 75,
+    "question": "Apakah kamu pernah melanggar hukum?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 76,
+    "question": "Apa hal paling memalukan yang pernah kamu lakukan? Kapan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 77,
+    "question": "Apa hal yang paling membuatmu merasa insecure?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 78,
+    "question": "Kesalahan terburuk apa yang pernah kamu lakukan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 79,
+    "question": "Apa hal paling menjijikkan yang pernah kamu lakukan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 80,
+    "question": "Siapa orang yang paling ingin kamu cium di antara kita?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 81,
+    "question": "Hal terburuk apa yang pernah dilakukan orang terhadapmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 82,
+    "question": "Apa kebiasaan terburukmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 83,
+    "question": "Hal terburuk apa yang pernah kamu katakan/lakukan terhadap orang lain?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 84,
+    "question": "Apa penyesalan terburukmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 85,
+    "question": "Kalau kamu bisa jadi tidak terlihat, apa hal pertama yang akan kamu lakukan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 86,
+    "question": "Kenapa kamu putus dengan mantanmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 87,
+    "question": "Apa rahasia yang kamu sembunyikan dari orang tuamu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 88,
+    "question": "Siapa orang yang diam-diam kamu sukai?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 89,
+    "question": "Siapa orang terakhir yang kamu kepoin di media sosial?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 90,
+    "question": "Kalau ada jin yang memberikanmu tiga permohonan, apa yang kamu inginkan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 91,
+    "question": "Siapa orang di antara kita yang menurutmu bisa lolos dari kiamat zombi dan siapa yang akan mati duluan? Beri tahu alasannya!"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 92,
+    "question": "Siapa orang yang paling sering kamu chat?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 93,
+    "question": "Apa kebohongan terbesar yang pernah kamu katakan kepada orang tuamu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 94,
+    "question": "Apa mimpi paling aneh yang pernah kamu alami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 95,
+    "question": "Ceritakan detail ciuman pertamamu!"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 96,
+    "question": "Kapan terakhir kali kamu ngompol?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 97,
+    "question": "Menurutmu, hewan apa yang terlihat paling mirip denganmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 98,
+    "question": "Di antara kita, siapa orang yang paling kamu suka dalam konteks romantis?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 99,
+    "question": "Di antara kita, siapa orang yang menurutmu paling baik dan paling buruk sifatnya?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 100,
+    "question": "Siapa mantan terindahmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 101,
+    "question": "Siapa orang yang ingin kamu jadikan istri/suami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 102,
+    "question": "Apa aib yang kamu sembunyikan dari kami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 103,
+    "question": "Berapa jumlah mantanmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 104,
+    "question": "Kalau kamu punya kesempatan untuk bertukar tubuh dengan salah satu orang di antara kita, siapa yang kamu pilih?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 105,
+    "question": "Kalau kamu punya kemampuan untuk tidak terlihat, apa hal terburuk yang akan kamu lakukan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 106,
+    "question": "Kalau kamu punya kesempatan balikan dengan mantan, siapa yang akan kamu pilih dan kenapa?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 107,
+    "question": "Hal terburuk yang pernah kamu lakukan di lingkungan kerja?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 108,
+    "question": "Nilai setiap orang yang bermain dari yang paling sampai tidak favorit."
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 109,
+    "question": "Siapa orang yang paling kamu benci di antara kita?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 110,
+    "question": "Siapa orang yang terakhir kamu hubungi di WhatsApp?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 111,
+    "question": "Hal apa yang membuat kamu sangat bahagia?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 112,
+    "question": "Hal apa yang membuat kamu sangat ketakutan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 113,
+    "question": "Apa yang paling kamu benci dari dirimu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 114,
+    "question": "Apa yang kamu lakukan saat bertemu dengan orang yang membencimu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 115,
+    "question": "Siapa orang yang diam-diam kamu sukai?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 116,
+    "question": "Siapa orang terakhir yang kamu stalk di media sosial?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 117,
+    "question": "Seperti apa kriteria pasanganmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 118,
+    "question": "Apakah kamu pernah selingkuh dan apa pendapatmu tentang perselingkuhan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 119,
+    "question": "Apakah kamu punya bakat tersembunyi?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 120,
+    "question": "Apakah kamu pernah ngompol?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 121,
+    "question": "Hal paling aneh apa yang pernah kamu lakukan di depan cermin?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 122,
+    "question": "Apakah kamu pernah berbohong untuk kabur dari sebuah kencan? Kalau iya, apa kebohongannya?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 123,
+    "question": "Apa hal yang terakhir kamu cari di ponselmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 124,
+    "question": "Lebih pilih mana, pergi ke luar rumah tanpa celana dalam atau sebulan tidak keramas?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 125,
+    "question": "Apakah kamu pernah digedor-gedor saat sedang di dalam toilet umum?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 126,
+    "question": "Apakah kamu pernah mengupil, tapi ada orang lain yang memperhatikanmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 127,
+    "question": "Apakah kamu pernah bicara sendiri di tempat umum?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 128,
+    "question": "Apa hal dalam histori pencarianmu di internet yang membuatmu malu jika diketahui seseorang?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 129,
+    "question": "Pernahkah kamu mencoba mengambil foto diri sendiri dengan gaya seksi?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 130,
+    "question": "Apa lagu favoritmu saat sedang mandi?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 131,
+    "question": "Berapa penilaianmu terhadap penampilan diri sendiri dalam skala 1 sampai 5?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 132,
+    "question": "Saat kamu berada di toilet umum dan baru saja selesai buang air, kamu baru sadar air dan tisunya habis, apa yang akan kamu lakukan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 133,
+    "question": "Pernahkah kamu kentut keras di depan umum?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 134,
+    "question": "Apa hal yang paling membuatmu merasa hidup?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 135,
+    "question": "Apa pengalaman paling menarik yang pernah kamu alami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 136,
+    "question": "Jika kamu memiliki kekuatan super, kekuatan apa yang ingin kamu miliki?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 137,
+    "question": "Apa kegiatan favoritmu saat sedang bersantai?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 138,
+    "question": "Jika kamu bisa tinggal di tempat lain di dunia ini, di mana kamu ingin tinggal?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 139,
+    "question": "Jika kamu bisa mengubah satu hal dalam hidupmu, apa yang akan kamu ubah?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 140,
+    "question": "Apa lagu yang selalu bisa membuatmu bernyanyi atau menari?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 141,
+    "question": "Apa hal yang paling kamu syukuri dalam hidupmu saat ini?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 142,
+    "question": "Apa sesuatu yang ingin kamu ubah dalam persahabatan atau hubunganmu dengan seseorang?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 143,
+    "question": "Apa tujuan hidupmu yang paling penting bagimu saat ini?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 144,
+    "question": "Apa pendapatmu tentang cinta pada pandangan pertama?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 145,
+    "question": "Apa hal yang paling ingin kamu pelajari dari temanmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 146,
+    "question": "Apa hal yang paling membuatmu stres atau cemas?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 147,
+    "question": "Apa film favoritmu sepanjang masa?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 148,
+    "question": "Apa mimpi teraneh yang pernah kamu alami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 149,
+    "question": "Apa hal yang paling kamu takuti dalam hidup ini?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 150,
+    "question": "Apa pengalaman paling menegangkan yang pernah kamu alami?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 151,
+    "question": "Apa yang paling kamu cintai tentang teman-temanmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 152,
+    "question": "Apa hal yang ingin kamu lakukan jika tidak ada batasan waktu, uang, atau keterampilan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 153,
+    "question": "Apa hal yang paling ingin kamu pelajari atau kuasai?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 154,
+    "question": "Apa pernahkah kamu mencoba makan sesuatu yang seharusnya tidak dimakan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 155,
+    "question": "Apa hal paling aneh yang pernah kamu lihat di internet?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 156,
+    "question": "Apa hal tergila yang pernah kamu lakukan karena mengikuti tren sosial media?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 157,
+    "question": "Apa hal paling konyol yang pernah kamu percaya sebagai anak kecil?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 158,
+    "question": "Apa hewan yang paling aneh yang pernah kamu pelihara?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 159,
+    "question": "Apa pernahkah kamu mencoba makanan yang tidak lazim dari budaya lain?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 160,
+    "question": "Apa hal tergila yang pernah kamu lakukan untuk memenangkan taruhan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 161,
+    "question": "Apa hal teraneh yang pernah kamu coba lakukan di tengah malam?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 162,
+    "question": "Apa hal paling konyol yang pernah kamu lakukan di depan umum?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 163,
+    "question": "Apa hal paling konyol yang pernah kamu lihat di dalam kamar mandi umum?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 164,
+    "question": "Apa hal paling aneh yang pernah kamu bawa dalam tas atau dompetmu?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 165,
+    "question": "Apa hal paling aneh yang pernah kamu rasakan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 166,
+    "question": "Apa kebiasaan buruk teraneh yang pernah kamu miliki?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 167,
+    "question": "Apa hal tergila yang pernah kamu lakukan karena kehilangan taruhan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 168,
+    "question": "Apa hal paling konyol yang pernah kamu beli secara impulsif?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 169,
+    "question": "Apa hal teraneh yang pernah kamu lakukan saat tidur?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 170,
+    "question": "Apa hal teraneh yang pernah kamu lakukan karena tertidur saat mengobrol dengan seseorang?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 171,
+    "question": "Apa pernahkah kamu berbicara dengan benda mati?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 172,
+    "question": "Apa hal teraneh yang pernah kamu coba lakukan dengan makanan?"
+  },
+  {
+    "creator": "SatzzDev.",
+    "id": 173,
+    "question": "Apa hal paling konyol yang pernah kamu dengar tentang dirimu sendiri?"
+  }
+]
