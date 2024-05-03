@@ -1,0 +1,502 @@
+[
+  {
+    "index": 1,
+    "question": "Apa istilah ilmiah untuk proses fotosintesis?",
+    "answer": "Fotosintesis"
+  },
+  {
+    "index": 2,
+    "question": "Apa istilah ilmiah untuk kumpulan bintang, planet, debu, dan gas yang terikat oleh gravitasi?",
+    "answer": "Galaksi"
+  },
+  {
+    "index": 3,
+    "question": "Apa istilah ilmiah untuk pusat bumi?",
+    "answer": "Inti"
+  },
+  {
+    "index": 4,
+    "question": "Apa istilah ilmiah untuk anggota keluarga kucing?",
+    "answer": "Felis catus"
+  },
+  {
+    "index": 5,
+    "question": "Apa istilah ilmiah untuk proses pembelahan sel?",
+    "answer": "Mitosis"
+  },
+  {
+    "index": 6,
+    "question": "Apa istilah ilmiah untuk lapisan atmosfer yang paling dekat dengan permukaan bumi?",
+    "answer": "Troposfer"
+  },
+  {
+    "index": 7,
+    "question": "Apa istilah ilmiah untuk kelompok organisme yang memiliki kemiripan genetik dan dapat saling berkembang biak?",
+    "answer": "Spesies"
+  },
+  {
+    "index": 8,
+    "question": "Apa istilah ilmiah untuk penyakit yang menyebar di seluruh dunia?",
+    "answer": "Pandemi"
+  },
+  {
+    "index": 9,
+    "question": "Apa istilah ilmiah untuk reaksi kimia antara oksigen dan senyawa lain?",
+    "answer": "Oksidasi"
+  },
+  {
+    "index": 10,
+    "question": "Apa istilah ilmiah untuk unit struktural dan fungsional dasar dari semua organisme hidup?",
+    "answer": "Sel"
+  },
+  {
+    "index": 11,
+    "question": "Apa istilah ilmiah untuk energi yang dihasilkan oleh getaran atau gelombang?",
+    "answer": "Gelombang"
+  },
+  {
+    "index": 12,
+    "question": "Apa istilah ilmiah untuk air dalam bentuk gas?",
+    "answer": "Uap"
+  },
+  {
+    "index": 13,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang tumbuhan?",
+    "answer": "Botani"
+  },
+  {
+    "index": 14,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang pergerakan bumi dan planet lainnya?",
+    "answer": "Astronomi"
+  },
+  {
+    "index": 15,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang struktur dan komposisi bumi?",
+    "answer": "Geologi"
+  },
+  {
+    "index": 16,
+    "question": "Apa istilah ilmiah untuk pusat pengendalian sel dan penyimpanan materi genetik?",
+    "answer": "Inti sel"
+  },
+  {
+    "index": 17,
+    "question": "Apa istilah ilmiah untuk struktur berbentuk heliks yang membawa informasi genetik?",
+    "answer": "DNA"
+  },
+  {
+    "index": 18,
+    "question": "Apa istilah ilmiah untuk organisme yang terdiri atas satu sel?",
+    "answer": "Uniseluler"
+  },
+  {
+    "index": 19,
+    "question": "Apa istilah ilmiah untuk cairan yang dikeluarkan oleh kelenjar keringat?",
+    "answer": "Keringat"
+  },
+  {
+    "index": 20,
+    "question": "Apa istilah ilmiah untuk pembentukan molekul air dari hidrogen dan oksigen?",
+    "answer": "Hidrasi"
+  },
+  {
+    "index": 21,
+    "question": "Apa istilah ilmiah untuk kelembaban yang dihasilkan oleh tanaman?",
+    "answer": "Transpirasi"
+  },
+  {
+    "index": 22,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang jaringan dan organ dalam tubuh manusia?",
+    "answer": "Anatomi"
+  },
+  {
+    "index": 23,
+    "question": "Apa istilah ilmiah untuk mahluk hidup yang memperoleh makanannya dari sumber organik lainnya?",
+    "answer": "Konsumen"
+  },
+  {
+    "index": 24,
+    "question": "Apa istilah ilmiah untuk energi yang tersimpan dalam tubuh?",
+    "answer": "Energi potensial"
+  },
+  {
+    "index": 25,
+    "question": "Apa istilah ilmiah untuk proses penyatuan sperma dengan sel telur?",
+    "answer": "Fertilisasi"
+  },
+  {
+    "index": 26,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang klasifikasi dan keberagaman makhluk hidup?",
+    "answer": "Taksonomi"
+  },
+  {
+    "index": 27,
+    "question": "Apa istilah ilmiah untuk tumpukan batuan yang membentuk pegunungan?",
+    "answer": "Lapisan"
+  },
+  {
+    "index": 28,
+    "question": "Apa istilah ilmiah untuk jaringan penghubung yang menyokong organisme?",
+    "answer": "Jaringan ikat"
+  },
+  {
+    "index": 29,
+    "question": "Apa istilah ilmiah untuk kumpulan tumbuhan di suatu wilayah?",
+    "answer": "Vegetasi"
+  },
+  {
+    "index": 30,
+    "question": "Apa istilah ilmiah untuk cairan yang mengangkut nutrisi dan oksigen dalam tubuh?",
+    "answer": "Darah"
+  },
+  {
+    "index": 31,
+    "question": "Apa istilah ilmiah untuk terbentuknya kembali massa bumi oleh erosi dan sedimentasi?",
+    "answer": "Siklus batuan"
+  },
+  {
+    "index": 32,
+    "question": "Apa istilah ilmiah untuk zat yang menyebabkan reaksi kimia?",
+    "answer": "Katalis"
+  },
+  {
+    "index": 33,
+    "question": "Apa istilah ilmiah untuk kumpulan jaringan yang memiliki fungsi khusus dalam organisme?",
+    "answer": "Organ"
+  },
+  {
+    "index": 34,
+    "question": "Apa istilah ilmiah untuk air yang menguap dari permukaan tanah?",
+    "answer": "Penguapan"
+  },
+  {
+    "index": 35,
+    "question": "Apa istilah ilmiah untuk pembuluh darah yang membawa darah kembali ke jantung?",
+    "answer": "Vena"
+  },
+  {
+    "index": 36,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang hukum gerak benda?",
+    "answer": "Fisika"
+  },
+  {
+    "index": 37,
+    "question": "Apa istilah ilmiah untuk struktur pembawa informasi genetik pada virus?",
+    "answer": "RNA"
+  },
+  {
+    "index": 38,
+    "question": "Apa istilah ilmiah untuk benua yang merupakan bagian tertua dari permukaan bumi?",
+    "answer": "Benua tua"
+  },
+  {
+    "index": 39,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang bintang dan galaksi?",
+    "answer": "Astronomi"
+  },
+  {
+    "index": 40,
+    "question": "Apa istilah ilmiah untuk struktur sel yang menghasilkan energi?",
+    "answer": "Mitokondria"
+  },
+  {
+    "index": 41,
+    "question": "Apa istilah ilmiah untuk keadaan atmosfer yang berubah menjadi gas?",
+    "answer": "Evensen"
+  },
+  {
+    "index": 42,
+    "question": "Apa istilah ilmiah untuk tanah yang mengandung mineral mineral tanah?",
+    "answer": "Tanah"
+  },
+  {
+    "index": 43,
+    "question": "Apa istilah ilmiah untuk proses pengurai makanan menjadi zat yang dapat diserap tubuh?",
+    "answer": "Pencernaan"
+  },
+  {
+    "index": 44,
+    "question": "Apa istilah ilmiah untuk iklim yang hangat dan lembap sepanjang tahun?",
+    "answer": "Tropis"
+  },
+  {
+    "index": 45,
+    "question": "Apa istilah ilmiah untuk kelompok molekul yang membangun sel hidup?",
+    "answer": "Biomolekul"
+  },
+  {
+    "index": 46,
+    "question": "Apa istilah ilmiah untuk perubahan bentuk yang terjadi dalam organisme?",
+    "answer": "Metamorfosis"
+  },
+  {
+    "index": 47,
+    "question": "Apa istilah ilmiah untuk energi yang dipancarkan oleh benda panas?",
+    "answer": "Radiasi"
+  },
+  {
+    "index": 48,
+    "question": "Apa istilah ilmiah untuk perputaran bumi pada porosnya?",
+    "answer": "Rotasi"
+  },
+  {
+    "index": 49,
+    "question": "Apa istilah ilmiah untuk lingkungan hidup yang meliputi semua organisme hidup dan faktor non-hidup?",
+    "answer": "Ekosistem"
+  },
+  {
+    "index": 50,
+    "question": "Apa istilah ilmiah untuk kekuatan yang menahan benda pada permukaan bumi?",
+    "answer": "Gravitasi"
+  },
+  {
+    "index": 51,
+    "question": "Apa istilah ilmiah untuk struktur yang terdiri atas dua atom hidrogen dan satu atom oksigen?",
+    "answer": "Air"
+  },
+  {
+    "index": 52,
+    "question": "Apa istilah ilmiah untuk kecepatan pergerakan angin?",
+    "answer": "Kecepatan angin"
+  },
+  {
+    "index": 53,
+    "question": "Apa istilah ilmiah untuk peristiwa di mana bulan menghalangi matahari?",
+    "answer": "Gerhana"
+  },
+  {
+    "index": 54,
+    "question": "Apa istilah ilmiah untuk partikel dasar yang membentuk materi?",
+    "answer": "Atom"
+  },
+  {
+    "index": 55,
+    "question": "Apa istilah ilmiah untuk lapisan atmosfer yang melindungi bumi dari radiasi ultraviolet?",
+    "answer": "Ozonosfer"
+  },
+  {
+    "index": 56,
+    "question": "Apa istilah ilmiah untuk bintang kecil yang memancarkan cahaya karena pembakaran hidrogen?",
+    "answer": "Bintang"
+  },
+  {
+    "index": 57,
+    "question": "Apa istilah ilmiah untuk lubang besar di permukaan bumi yang terbentuk dari letusan gunung berapi?",
+    "answer": "Kaldera"
+  },
+  {
+    "index": 58,
+    "question": "Apa istilah ilmiah untuk bagian terluar dari atmosfer yang berisi berbagai cuaca?",
+    "answer": "Stratosfer"
+  },
+  {
+    "index": 59,
+    "question": "Apa istilah ilmiah untuk alat pernapasan yang dimiliki oleh tanaman?",
+    "answer": "Stomata"
+  },
+  {
+    "index": 60,
+    "question": "Apa istilah ilmiah untuk peristiwa di mana bumi menghalangi matahari?",
+    "answer": "Gerhana"
+  },
+  {
+    "index": 61,
+    "question": "Apa istilah ilmiah untuk kumpulan air yang membentuk sungai?",
+    "answer": "Air"
+  },
+  {
+    "index": 62,
+    "question": "Apa istilah ilmiah untuk organisme yang dapat menghasilkan makanan dari bahan kimia atau energi?",
+    "answer": "Produsen"
+  },
+  {
+    "index": 63,
+    "question": "Apa istilah ilmiah untuk mahluk hidup yang memakan tumbuhan dan daging?",
+    "answer": "Omnivora"
+  },
+  {
+    "index": 64,
+    "question": "Apa istilah ilmiah untuk perpindahan energi antara dua objek karena suhu perbedaan?",
+    "answer": "Perpindahan panas"
+  },
+  {
+    "index": 65,
+    "question": "Apa istilah ilmiah untuk cahaya yang terdiri atas satu warna?",
+    "answer": "Spektrum"
+  },
+  {
+    "index": 66,
+    "question": "Apa istilah ilmiah untuk hujan yang mengandung asam sulfat?",
+    "answer": "Hujan asam"
+  },
+  {
+    "index": 67,
+    "question": "Apa istilah ilmiah untuk sistem peredaran darah yang memiliki dua sirkulasi?",
+    "answer": "Sirkulasi ganda"
+  },
+  {
+    "index": 68,
+    "question": "Apa istilah ilmiah untuk molekul berbentuk segitiga?",
+    "answer": "Trigonal"
+  },
+  {
+    "index": 69,
+    "question": "Apa istilah ilmiah untuk bagian tumbuhan yang berfungsi menyerap air dan mineral?",
+    "answer": "Akar"
+  },
+  {
+    "index": 70,
+    "question": "Apa istilah ilmiah untuk suhu rendah yang menyebabkan air menjadi padat?",
+    "answer": "Es"
+  },
+  {
+    "index": 71,
+    "question": "Apa istilah ilmiah untuk cairan yang mengalir di dalam tubuh?",
+    "answer": "Limfa"
+  },
+  {
+    "index": 72,
+    "question": "Apa istilah ilmiah untuk keadaan alam yang melindungi dan mengatur lingkungan?",
+    "answer": "Konservasi"
+  },
+  {
+    "index": 73,
+    "question": "Apa istilah ilmiah untuk alat pernapasan yang dimiliki oleh manusia?",
+    "answer": "Paru-paru"
+  },
+  {
+    "index": 74,
+    "question": "Apa istilah ilmiah untuk bagian sel yang berfungsi menghasilkan energi?",
+    "answer": "Mitokondria"
+  },
+  {
+    "index": 75,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang pembentukan dan evolusi alam semesta?",
+    "answer": "Kosmologi"
+  },
+  {
+    "index": 76,
+    "question": "Apa istilah ilmiah untuk bagian dari tanaman yang membantu dalam pembuahan?",
+    "answer": "Saraf"
+  },
+  {
+    "index": 77,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang kejadian-kejadian di alam?",
+    "answer": "Fisika"
+  },
+  {
+    "index": 78,
+    "question": "Apa istilah ilmiah untuk zat kimia yang memberikan warna pada tanaman?",
+    "answer": "Pigmen"
+  },
+  {
+    "index": 79,
+    "question": "Apa istilah ilmiah untuk keadaan ketika bumi tidak memblokir matahari?",
+    "answer": "Gerhana"
+  },
+  {
+    "index": 80,
+    "question": "Apa istilah ilmiah untuk gas yang menyusun sebagian besar atmosfer bumi?",
+    "answer": "Oksigen"
+  },
+  {
+    "index": 81,
+    "question": "Apa istilah ilmiah untuk organ yang membantu dalam pengeluaran sisa metabolisme?",
+    "answer": "Ginjal"
+  },
+  {
+    "index": 82,
+    "question": "Apa istilah ilmiah untuk bagian organisme yang dapat menanggapi rangsangan?",
+    "answer": "Saraf"
+  },
+  {
+    "index": 83,
+    "question": "Apa istilah ilmiah untuk bintang yang meledak dan memancarkan cahaya?",
+    "answer": "Supernova"
+  },
+  {
+    "index": 84,
+    "question": "Apa istilah ilmiah untuk organisme yang memperoleh makanannya dari sumber anorganik?",
+    "answer": "Autotrof"
+  },
+  {
+    "index": 85,
+    "question": "Apa istilah ilmiah untuk lapisan udara yang melindungi bumi dari meteor?",
+    "answer": "Stratosfer"
+  },
+  {
+    "index": 86,
+    "question": "Apa istilah ilmiah untuk gas yang menyusun sebagian besar atmosfer bumi?",
+    "answer": "Nitrogen"
+  },
+  {
+    "index": 87,
+    "question": "Apa istilah ilmiah untuk pohon atau semak yang berproduksi pada musim gugur?",
+    "answer": "Pohon gugur"
+  },
+  {
+    "index": 88,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang gerakan tanah?",
+    "answer": "Geologi"
+  },
+  {
+    "index": 89,
+    "question": "Apa istilah ilmiah untuk keadaan ketika cahaya matahari diblokir oleh bumi?",
+    "answer": "Gerhana"
+  },
+  {
+    "index": 90,
+    "question": "Apa istilah ilmiah untuk peristiwa di mana bumi menghalangi cahaya bulan?",
+    "answer": "Gerhana"
+  },
+  {
+    "index": 91,
+    "question": "Apa istilah ilmiah untuk energi yang dihasilkan oleh matahari?",
+    "answer": "Surya"
+  },
+  {
+    "index": 92,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang hukum alam?",
+    "answer": "Fisika"
+  },
+  {
+    "index": 93,
+    "question": "Apa istilah ilmiah untuk perubahan bentuk benda akibat gaya?",
+    "answer": "Deformasi"
+  },
+  {
+    "index": 94,
+    "question": "Apa istilah ilmiah untuk kumpulan bintang yang terikat oleh gravitasi?",
+    "answer": "Galaksi"
+  },
+  {
+    "index": 95,
+    "question": "Apa istilah ilmiah untuk atmosfer yang berada di luar angkasa?",
+    "answer": "Ionosfer"
+  },
+  {
+    "index": 96,
+    "question": "Apa istilah ilmiah untuk ilmu yang mempelajari tentang materi dan energi?",
+    "answer": "Fisika"
+  },
+  {
+    "index": 97,
+    "question": "Apa istilah ilmiah untuk cahaya yang dipantulkan dari permukaan bumi?",
+    "answer": "Refleksi"
+  },
+  {
+    "index": 98,
+    "question": "Apa istilah ilmiah untuk zat yang tidak dapat diperbaiki oleh organisme hidup?",
+    "answer": "Zat tidak organik"
+  },
+  {
+    "index": 99,
+    "question": "Apa istilah ilmiah untuk cairan yang mengandung sperma?",
+    "answer": "Sperma"
+  },
+  {
+    "index": 100,
+    "question": "Apa istilah ilmiah untuk gas yang menyusun sebagian besar atmosfer bumi?",
+    "answer": "Argon"
+  }
+]
